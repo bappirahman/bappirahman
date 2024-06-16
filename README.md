@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_bappi_rahman" target="blank"><img src="https://img.shields.io/twitter/follow/_bappi_rahman?logo=twitter&style=for-the-badge" alt="_bappi_rahman" /></a> </p>
 
-- 🔭 I’m currently working on [End to End ML Project to learn more on production ready ml project](https://github.com/bappirahman/ml-projecthttps://github.com/bappirahman/ml-project)
+- 🔭 I’m currently working on [langchain_rag_reseach_paper_guide_and_explainer]([https://github.com/bappirahman/ml-projecthttps://github.com/bappirahman/ml-project](https://github.com/bappirahman/langchain_rag_reseach_paper_guide_and_explainer))
 
 - 🌱 I’m currently learning **End to End ML, Langchain, Paid and Open source llms**
 
