@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bappi Rahman Tutul</h1>
-<h3 align="center">Full Stack Developer | Community Mentor | CSE Student</h3>
+<h3 align="center">Full Stack Developer | AI Enthusiast | Community Mentor | CSE Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bappirahman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bappirahman&theme=gruvbox&no-frame=true&title=Followers,Stars,Commit,Repositories,PullRequest,Issues" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=bappirahman&theme=gruvbox&no-frame=true&title=Followers,Stars,Commit,Repositories,PullRequest,Issues" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -16,31 +16,32 @@
 - 🎓 CSE Student at **Northern University Bangladesh**
 
 - 🔭 Currently working on:
-  - Internal tools and dashboards at [24Studio](https://24studio.org)
-  - Open-source contributions and team-based MERN applications
+  - Internal tools & dashboards at [24Studio](https://24studio.org)
+  - Open-source projects and MERN-based web applications
 
 - 🌱 Currently learning:
-  - **Advanced Node.js**, GraphQL, SQL-based auth systems
-  - **Langchain, LLM APIs**, and full-stack cloud architectures
+  - **Advanced Node.js**, GraphQL, SQL-Based Authentication
+  - **Langchain, LLM APIs**, and Full-Stack Cloud Architectures
 
 - 💬 Ask me about:
-  - **React, Node.js, MongoDB, Express, Git**, and scalable system design
+  - **React, Node.js, MongoDB, Express, Git**, MERN stack, system design
 
 - 👨‍💻 Major Projects:
   - [MERN Social Media App – Sociopedia](https://sociopedia-yhau.onrender.com)  
-    ↳ A social platform to connect, post, comment, and friend others  
-    ↳ [Source Code](https://github.com/bappirahman/mern-socialmedia-app-sociopedia)
+    A modern social platform with friend requests, posts, comments  
+    [🔗 Source Code](https://github.com/bappirahman/mern-socialmedia-app-sociopedia)
+    
   - [NFT Marketplace](https://nft-marketplace-sigma-six.vercel.app)  
-    ↳ Create, mint, buy, and sell NFTs using Solidity + React  
-    ↳ [Source Code](https://github.com/bappirahman/NFT-MarketPlace)
+    A blockchain-based NFT marketplace built with Solidity + React  
+    [🔗 Source Code](https://github.com/bappirahman/NFT-MarketPlace)
 
 - 🤝 Volunteering:
-  - **Mentor & Developer @ 24Studio**: Building internal systems, mentoring students
-  - **ICT Secretary @ GAIR Scout Group**: Tech lead during COVID-19 community initiatives
+  - **Mentor & Developer @ 24Studio** – Building internal systems, guiding juniors
+  - **ICT Secretary @ GAIR Scout Group** – Led technology efforts in COVID-19 community programs
 
-- 📫 Reach me: **cs.bappirahman@gmail.com**
+- 📫 Reach me at: **cs.bappirahman@gmail.com**
 
-- 🧭 Follow me: [X (formerly Twitter)](https://x.com/_bappi_rahman) | [LinkedIn](https://www.linkedin.com/in/bappi-rahman/)
+- 🧭 Follow me on: [X (formerly Twitter)](https://x.com/_bappi_rahman) | [LinkedIn](https://www.linkedin.com/in/bappi-rahman/)
 
 ---
 
@@ -69,13 +70,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
 </p>
 
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=bappirahman&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </p>
@@ -89,5 +89,5 @@
 </p>
 
 <p align="left">
-  <img src="https://activity-graph.herokuapp.com/graph?username=bappirahman&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bappirahman&theme=react-dark" alt="Contribution Graph" />
 </p>
