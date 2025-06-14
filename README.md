@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bappi Rahman Tutul</h1>
-<h3 align="center">Full Stack Developer | Community Mentor</h3>
+<h3 align="center">Full Stack Developer | Community Mentor | CSE Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bappirahman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -17,14 +17,14 @@
 
 - 🔭 Currently working on:
   - Internal tools and dashboards at [24Studio](https://24studio.org)
-  - team-based MERN applications
+  - Open-source contributions and team-based MERN applications
 
 - 🌱 Currently learning:
   - **Advanced Node.js**, GraphQL, SQL-based auth systems
   - **Langchain, LLM APIs**, and full-stack cloud architectures
 
 - 💬 Ask me about:
-  - **React, Node.js, MongoDB, SQL, Express, REST, API, GraphQL, Git**, and scalable system design
+  - **React, Node.js, MongoDB, Express, Git**, and scalable system design
 
 - 👨‍💻 Major Projects:
   - [MERN Social Media App – Sociopedia](https://sociopedia-yhau.onrender.com)  
@@ -40,17 +40,17 @@
 
 - 📫 Reach me: **cs.bappirahman@gmail.com**
 
-- 📄 Connect: [LinkedIn Profile](https://www.linkedin.com/in/bappi-rahman/)
+- 🧭 Follow me: [X (formerly Twitter)](https://x.com/_bappi_rahman) | [LinkedIn](https://www.linkedin.com/in/bappi-rahman/)
 
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://x.com/_bappi_rahman" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" width="30" height="30"/>
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" width="30" height="30" />
   </a>
   <a href="https://linkedin.com/in/bappi-rahman" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
   </a>
 </p>
 
