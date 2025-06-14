@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bappi Rahman Tutul</h1>
+<h1 align="center">Hi 👋, I'm Bappi Rahman</h1>
 <h3 align="center">Full Stack Developer | AI Enthusiast | Community Mentor | CSE Student</h3>
 
 <p align="center">
@@ -37,7 +37,7 @@
 
 - 🤝 Volunteering:
   - **Mentor & Developer @ 24Studio** – Building internal systems, guiding juniors
-  - **ICT Secretary @ GAIR Scout Group** – Led technology efforts in COVID-19 community programs
+  - **Former ICT Secretary @ GAI Rover Scout Group** – Led technology efforts in COVID-19 community programs
 
 - 📫 Reach me at: **cs.bappirahman@gmail.com**
 
