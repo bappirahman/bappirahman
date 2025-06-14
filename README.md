@@ -24,7 +24,7 @@
   - **Langchain, LLM APIs**, and Full-Stack Cloud Architectures
 
 - 💬 Ask me about:
-  - **React, Node.js, MongoDB, Express, Git**, MERN stack, system design
+  - **React, Node.js, MongoDB, SQL, Express, REST, GraphQL, Socket.io, Git**, MERN stack, system design
 
 - 👨‍💻 Major Projects:
   - [MERN Social Media App – Sociopedia](https://sociopedia-yhau.onrender.com)  
