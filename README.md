@@ -10,7 +10,6 @@
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/_bappi_rahman)
 [![BoringDocs](https://img.shields.io/badge/BoringDocs-7c6fff?style=flat-square&logoColor=white)](https://boringdocs.dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:cs.bappirahman@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8801836147192)
 
 </div>
 
@@ -184,7 +183,6 @@ A technical documentation platform targeting Node.js and TypeScript developers. 
 ## 📫 Reach Me
 
 - 📧 Email: [cs.bappirahman@gmail.com](mailto:cs.bappirahman@gmail.com)
-- 💬 WhatsApp: [+8801836147192](https://wa.me/8801836147192)
 - 🐦 X: [@_bappi_rahman](https://x.com/_bappi_rahman)
 - 💼 LinkedIn: [bappi-rahman](https://linkedin.com/in/bappi-rahman)
 - 🌐 Portfolio: [boringdocs.dev](https://boringdocs.dev)
