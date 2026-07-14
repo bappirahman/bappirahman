@@ -2,7 +2,7 @@
 
 # Hey there, I'm Bappi Rahman 👋
 
-**Full Stack Engineer · Open Source Builder · Technical Writer**
+**Full Stack Engineer · Software Engineer · Technical Writer**
 
 *Dhaka, Bangladesh 🇧🇩*
 
